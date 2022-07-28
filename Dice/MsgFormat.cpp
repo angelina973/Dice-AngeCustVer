@@ -111,4 +111,4 @@ std::string listDeck(const std::vector<std::string>& v)
 		list << val;
 	}
 	return list.show();
-}
+} 
