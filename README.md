@@ -16,11 +16,6 @@ Latest Stable Release: [![GitHub release](https://img.shields.io/github/release/
 
 Latest Release: [![GitHub release](https://img.shields.io/github/release-pre/Dice-Developer-Team/dice.svg)](https://github.com/Dice-Developer-Team/Dice/releases) [![GitHub Release Date](https://img.shields.io/github/release-date-pre/Dice-Developer-Team/dice.svg)](https://github.com/Dice-Developer-Team/Dice/releases)
 
-## 开发者
-
-贡献者:w4123溯洄 Shiki jh123111 緋色月下、スイカを食う
-
-感谢:Flandre Cirno 回転 他是王家乐。白いとう 哞哞哞哞哞哞哞哞哞哞哞哞 丸子 黯星 一盏大师 初音py2001 Coxxs orzFly [水纹霖霖CauchyDOOM](https://github.com/Dice-Developer-Team/Dice/commits?author=CauchyDOOM) 等(排名不分先后)(如有缺漏请务必联系溯洄:QQ1840686745) 
 
 ## 编译须知
 
